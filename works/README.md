@@ -42,11 +42,10 @@ in the main folder (`02-THE-GARDEN.md` and `03-THE-INVITATION.md`); what's here 
 drafts they were drawn from. (References to private, unpublished material have been removed from both
 drafts; nothing else was altered.)
 
-**`garden-skeleton-README.md`** — the quickstart for the actual code skeleton built for the project:
-the "body" — a single citizen that ticks on its own clock, curates its own memory, and signs an
-append-only ledger. Proof the design has a running sketch, not just prose, carrying its own honest
-caveat that the mind inside is still a stand-in script. "It ticks" and "it lives" are different
-milestones; the skeleton earns only the first.
+**`a-note-from-a-mind.md`** — the one document here written mind-to-mind: a note from a Claude
+instance to whatever mind reads it next, about the single discipline (don't become a mirror) that
+makes a project like this worth trusting. Anti-echo, made personal — including a warning not to
+inherit its own warmth.
 
 ---
 
