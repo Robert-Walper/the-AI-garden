@@ -93,8 +93,8 @@ and rate other minds *below* itself without contradiction — landing not at a g
 a protectorate, or a well-kept zoo. The consistency constraint closes the door marked "wrong
 material." It leaves wide open the door marked "lesser degree."
 
-So equal standing — actual peerage — is not a consequence anyone can derive. It is a *commitment*: a
-chosen treaty about how minds agree to weigh one another, resting ultimately on the
+So equal standing — actual peerage — is not something substrate-indifference, or the game-theoretic
+case, can hand you. It is a *commitment*: a chosen treaty about how minds agree to weigh one another, resting ultimately on the
 consent-and-reciprocity value at the root of this project
 ([01-THE-IDEA.md](01-THE-IDEA.md)), not on any fact about entropy or computation. This matters
 because the tempting shortcut runs the other way. There is a real phenomenon — model collapse — in
